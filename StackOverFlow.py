@@ -150,3 +150,13 @@ while not_done and numberofscholar>0:
     not_done = json_data['has_more']
 
 
+'''
+Input:
+cryptography 2
+
+Output:
+userkey: 3474 ....name: erickson ....top_answer....location: United States ....url: http://stackoverflow.com/users/3474/erickson
+userkey: 148870 ....name: Amber ....top_answer....location: California ....url: http://stackoverflow.com/users/148870/amber
+
+'''
+
